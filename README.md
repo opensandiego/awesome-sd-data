@@ -12,7 +12,7 @@ One of those [awesome](https://github.com/bayandin/awesome-awesomeness) lists fo
 8.	Center for Human Dynamics in the Mobile Age (HDMA) Social Media APIs: https://github.com/HDMA-SDSU/HDMA-SocialMediaAPI 
 
 ## Water Drought/Conservation
-(under construction
+(under construction)
 
 ## Disaster Response/Assistance
 (under construction)
