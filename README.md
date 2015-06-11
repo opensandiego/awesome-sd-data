@@ -32,3 +32,6 @@ One of those [awesome](https://github.com/bayandin/awesome-awesomeness) lists fo
 - SANDAG:  Download the most recent 180 days of San Diego regional crime data as displayed on crimemapping.com. The data are in a comma separated value (.csv) table and will be refreshed weekly on Wednesday:  http://www.sandag.org/index.asp?classid=14&subclassid=21&projectid=446&fuseaction=projects.detail 
 - http://www.crimemapping.com/ (the Omega Group)
 - The alcohol licensing information is freely available and updated every Wednesday. The source is here: (see Weekly / Data Export) http://www.abc.ca.gov/datport/SubscrMenu.asp
+- 
+## Census Data and SDK
+- This is extremely cool -- the [City SDK](http://uscensusbureau.github.io/citysdk/index.html) contains wrappers for API access to census data.  
